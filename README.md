@@ -1,6 +1,6 @@
-https://github.com/PraneethReddy15/Healthcare_Management_Platform/blob/master/PPT%20Slides/Slide1.JPG
-# Presentation Title
 
+# Presentation Title
+  HEALTHCARE MANAGEMENT PLATFORM
 ## Slide 1
 ![Slide 1](https://github.com/PraneethReddy15/Healthcare_Management_Platform/blob/master/PPT%20Slides/Slide1.JPG)
 
